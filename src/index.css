@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif; /* Заменил стандартный шрифт на Arial */
+}
+
+code {
+  font-family: 'Courier New', monospace; /* Заменил шрифт для кода на Courier New */
+}
